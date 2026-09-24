@@ -27,3 +27,5 @@ A responsive single-page academic/research portfolio built with plain HTML, CSS 
 - `script.js` — navigation, reveal animations and cursor glow
 
 No framework or build tool is required.
+
+Last portfolio redeploy: September 2026
